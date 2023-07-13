@@ -1,4 +1,4 @@
-module final-project
+module github.com/jennifercarreno/twitch-stats
 
 go 1.20
 
